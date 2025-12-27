@@ -1,0 +1,8 @@
+# One prompt per line. Lines starting with # are ignored.
+
+
+Tell me about a breaking news story happening in Times Square.
+What's the latest development in NYC's tech scene?
+Tell me about any upcoming events at Madison Square Garden
+
+
