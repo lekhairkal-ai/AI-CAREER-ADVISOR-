@@ -1,0 +1,8 @@
+# One prompt per line. Lines starting with # are ignored.
+
+
+Tell me about the careers that are in high demand and whats more future driven 
+What's the basic requirements for doing your job in the best way?
+Can you suggest me a career path for becoming an AI engineer 
+
+
